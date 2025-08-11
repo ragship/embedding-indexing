@@ -1,3 +1,3 @@
-# Embeddings Indexer
+# Embedding Indexing
 
-An embeddings indexer library that can be integrated with RAG and more.
+An embedding indexing library to build with RAG.

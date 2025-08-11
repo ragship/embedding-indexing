@@ -1,7 +1,7 @@
 {
-  "name": "embeddings-indexer",
+  "name": "@ragship/embedding-indexing",
   "version": "0.1.0",
-  "description": "An embeddings indexer library that can be integrated with RAG and more.",
+  "description": "An embedding indexing library to build with RAG.",
   "main": "index.js",
   "scripts": {
     "dev": "rollup -c --watch",
